@@ -1,0 +1,5 @@
+szám1 = imput ('mi legyen az egyik szám?')
+szám2 = imput (mi legyen a másik szám?')
+szám1 = int(szám1)
+szám2 = int(szám2) 
+print('A szorzatunk:v ',szám1 * szám2)
